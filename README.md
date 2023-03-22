@@ -72,10 +72,10 @@
   </div>
   <div align=center>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONG-J&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONG-J)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONG-J&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 <!--
 **JEONG-J/JEONG-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
