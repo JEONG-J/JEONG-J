@@ -25,7 +25,7 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEONG-J&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=56%/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEONG-J" width=20% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEONG-J" width=30% />
 </a>
 </div>
 
