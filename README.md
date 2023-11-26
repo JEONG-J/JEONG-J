@@ -18,7 +18,7 @@
  <br>
  <div>
 	 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=48% />
+  <img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=46% />
 </a>
 	 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JEONG-J&theme=dracula&border_radius=6" alt="GitHub Streak" width=52% /></a>
 	 
