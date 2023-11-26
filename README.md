@@ -27,9 +27,9 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 
 </div>
 
-<br><br><br>
-<div>
-<a>
+<br><br>
+ 
+<div algin = "left">
 <p>✨ Platforms & Languages ✨</p>
 <br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
@@ -44,9 +44,11 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=iTerm2&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
-</a>
+</div>
 
-<a>
+<br><br>
+
+<div algin = "left">
 <p>🛠 Tools 🛠</p>
  <br>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
@@ -55,7 +57,8 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
-</a>
+</div>
+
 </div>
 <br><br><br>
 
