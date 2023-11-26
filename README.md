@@ -22,7 +22,7 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 </a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JEONG-J&theme=dracula&border_radius=6" alt="GitHub Streak" width=49% /></a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEONG-J&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=64%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEONG-J&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=68%/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEONG-J" width=26% />
