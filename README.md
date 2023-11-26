@@ -29,11 +29,11 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 
 <br><br><br>
 
-<div>  
+<div align="left">  
 <p>✨ Platforms & Languages ✨</p>
 </div>
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
@@ -48,13 +48,10 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-<Br>
-<br>
-
-<div>
+<div align="right">
 <p>🛠 Tools 🛠</p>
 </div>
-<div align=center>
+<div align=right>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white" />
@@ -63,13 +60,13 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
 
-<br>
-<br>
+<br><br><br>
 
-<div align=center>
+<div align="left">
 <p>🎨 SNS & Portfolio 🎨</p>
 </div>
-<div align=center>
+
+<div align=left>
 <a href="https://velog.io/@ikejhc" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
@@ -81,8 +78,7 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 </a>
 </div>
 
-<br>
-<br>
+<br><br>
 
 <div align=center>
 <p> ✏️ My log ✏️</p>
