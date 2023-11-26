@@ -4,7 +4,7 @@
 </div>
 
 <div align=center>
-![image_processing20191030-10403-jcnl2g](https://github.com/devpla/devpla/assets/80624315/5ece6aee-c880-414f-83a9-afc6da7cf755)
+<img src= "https://github.com/devpla/devpla/assets/80624315/5ece6aee-c880-414f-83a9-afc6da7cf755">
 </div>
 
 <div align=center>
