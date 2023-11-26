@@ -22,9 +22,11 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 </a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JEONG-J&theme=dracula&border_radius=6" alt="GitHub Streak" width=49% /></a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEONG-J&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=90%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEONG-J&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=46%/>
 </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEONG-J" width=46% />
+</a>
 </div>
 
 <br><br>
@@ -52,16 +54,16 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
 
-<br><br><br>
+<br><br>
 
-<div align=center>
-<p> ✏️ My log ✏️</p>
-</div>
-<div align=center>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONG-J)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-</div>
+
+
+
+
+
+
+
 <!--
 **JEONG-J/JEONG-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
