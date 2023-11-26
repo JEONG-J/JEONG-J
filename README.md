@@ -16,6 +16,11 @@
  
  <br>
  <br>
+ <div>
+	 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONG-J&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+	 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JEONG-J&theme=dracula&border_radius=6" alt="GitHub Streak" /></a>
+	 
+ </div>
  
  <div align=center>  
 	<p>✨ Platforms & Languages ✨</p>
