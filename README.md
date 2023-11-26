@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFFFFF&height=300&section=header&text=Hello!+I'm+Euichan&fontColor=9D9ED2&animation=twinkling&20render&fontSize=70" width=80%/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFFFFF&height=300&section=header&text=Hello!+I'm+Euichan&fontColor=9D9ED2&animation=twinkling&20render&fontSize=70" width=70%/>
 <br><br><br>
 </div>
 
@@ -18,7 +18,7 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <br>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=42% />
+<img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=46% />
 </a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JEONG-J&theme=dracula&border_radius=6" alt="GitHub Streak" width=49% /></a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
