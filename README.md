@@ -17,7 +17,9 @@
  <br>
  <br>
  <div>
-	 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONG-J&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+	 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
+</a>
 	 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JEONG-J&theme=dracula&border_radius=6" alt="GitHub Streak" /></a>
 	 
  </div>
