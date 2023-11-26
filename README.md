@@ -4,6 +4,10 @@
 </div>
 
 <div align=center>
+![image_processing20191030-10403-jcnl2g](https://github.com/devpla/devpla/assets/80624315/5ece6aee-c880-414f-83a9-afc6da7cf755)
+</div>
+
+<div align=center>
   <h3>:thumbsup: My Introduction :thumbsup:</h3>
   Welcome my git. I'm a computer science student at Chung-Ang University. <br>
   I want to become a skilled iOS App developer. So, I'm studying hard and I will study even hard 🤗💪💪
