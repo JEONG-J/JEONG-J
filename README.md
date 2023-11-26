@@ -29,9 +29,9 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 
 <br><br><br>
 
-<div align="left">  
+<div>  
 <p>✨ Platforms & Languages ✨</p>
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
@@ -46,10 +46,9 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-<div align="right">
+<div>
 <p>🛠 Tools 🛠</p>
-</div>
-<div align=right>
+ <br>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white" />
