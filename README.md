@@ -28,9 +28,9 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 </div>
 
 <br><br>
- 
+
+### ✨ Platforms & Languages ✨
 <div algin = "left">
-<p>✨ Platforms & Languages ✨</p>
 <br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
@@ -48,8 +48,8 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 
 <br><br>
 
+### 🛠 Tools 🛠
 <div algin = "left">
-<p>🛠 Tools 🛠</p>
  <br>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
