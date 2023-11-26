@@ -31,9 +31,7 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 
 <div align="left">  
 <p>✨ Platforms & Languages ✨</p>
-</div>
-
-<div align="left">
+<br><br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
