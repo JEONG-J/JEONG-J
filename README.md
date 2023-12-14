@@ -8,7 +8,7 @@
 </div>
 
 <div align=center>
-<h3>:thumbsup: My Introduction :thumbsup:</h3>
+<h3> My Introduction </h3>
 Welcome my git. I'm a computer science student at Chung-Ang University. <br>
 I want to become a skilled iOS App developer. So, I'm studying hard and I will study even hard 🤗💪💪
 
