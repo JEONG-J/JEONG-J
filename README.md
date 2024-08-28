@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFFFFF&height=300&section=header&text=Hello!+I'm+Euichan&fontColor=9D9ED2&animation=twinkling&20render&fontSize=70" width=62%/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello!+I'm+Euichan&fontColor=9D9ED2&animation=twinkling&20render&fontSize=70" width=62%/>
 <br><br><br>
 </div>
 
