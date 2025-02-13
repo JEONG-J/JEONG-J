@@ -19,8 +19,7 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <div>
 <img src="https://github-profile-trophy.vercel.app/?username=JEONG-J&rank=SSS,S,A&theme=dracula" width=110% height=100%/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=47%/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JEONG-J)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=80%/>
 
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
