@@ -65,7 +65,7 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
 
-<br><br>
+<br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
