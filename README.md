@@ -19,14 +19,8 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <div>
 <img src="https://github-profile-trophy.vercel.app/?username=JEONG-J&rank=SSS,S,A&theme=dracula" width=110% height=100%/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=47%, height="200" />
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JEONG-J&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/JEONG-J"
-  width="400"
-  height="200"
-/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=47% height="200" />
+
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEONG-J&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=70%/>
