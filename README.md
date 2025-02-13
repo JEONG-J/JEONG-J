@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello!+I'm+Euichan&fontColor=9D9ED2&animation=twinkling&20render&fontSize=70" width=62%/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Je-Ong🐬&fontSize=90&&animation=fadeIn&fontColor=FFFFFF" width=62%/>
 <br><br><br>
 </div>
 
@@ -19,7 +19,8 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <div>
 <img src="https://github-profile-trophy.vercel.app/?username=JEONG-J&rank=SSS,S,A&theme=dracula" width=110% height=100%/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=47% height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=47%/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JEONG-J)](https://git.io/streak-stats)
 
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
