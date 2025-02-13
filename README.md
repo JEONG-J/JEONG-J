@@ -11,7 +11,18 @@
 <h3> My Introduction </h3>
 Welcome my git. I'm a computer science student at Chung-Ang University. <br>
 I want to become a skilled iOS App developer. So, I'm studying hard and I will study even hard 🤗💪💪
+</div>
 
+<br></br>
+<br></br>
+
+<div align=center>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JEONG-J&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JEONG-J"
+  width=100%
+/>
+</a>
 </div>
 
 <br>
