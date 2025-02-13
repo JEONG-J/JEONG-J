@@ -14,7 +14,6 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 </div>
 
 <br></br>
-<br></br>
 
 <div align=center>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JEONG-J&utm_content=farm">
@@ -26,7 +25,7 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 </div>
 
 <br>
-<br>
+
 <div>
 <img src="https://github-profile-trophy.vercel.app/?username=JEONG-J&rank=SSS,S,A&theme=dracula" width=110% height=100%/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
