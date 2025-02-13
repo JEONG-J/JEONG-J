@@ -23,7 +23,7 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JEONG-J&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/JEONG-J"
-  width=400
+  width="400"
   height="200"
 />
 </a>
