@@ -16,9 +16,9 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 <br></br>
 
 <div style="white-space: nowrap;">
-
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=JEONG-J&rank=-B,-C&theme=dracula&column=5" width=80%/><br>
-
+-->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JEONG-J&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/JEONG-J"
