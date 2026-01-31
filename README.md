@@ -27,7 +27,7 @@ I want to become a skilled iOS App developer. So, I'm studying hard and I will s
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true" width=48%/>
+<img src="https://github-readme-stats-henna-xi-56.vercel.app/api?username=JEONG-J&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%"/>
 </a>
 </div>
 
