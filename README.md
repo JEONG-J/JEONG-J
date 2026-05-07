@@ -8,7 +8,7 @@
 
 ## 👋 Hello, I'm Je-Ong
 
-중앙대학교 컴퓨터공학부에 재학 중인 **iOS 개발자**입니다.  
+**iOS 개발자**입니다.  
 사용자에게 좋은 경험을 주는 앱을 만들고 싶어 매일 한 걸음씩 나아가고 있어요.
 
 - 🍎 **iOS** — SwiftUI 기반 앱 개발, Swift 6 Concurrency, Architecture
